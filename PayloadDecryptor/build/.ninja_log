@@ -1,0 +1,6 @@
+# ninja log v5
+4	979	7644485977164810	CMakeFiles/payload-decryptor.dir/src/main.cpp.obj	661a77c279deec2b
+979	1086	7644485978132228	payload-decryptor.exe	f009f957caf55032
+3	101	7645100692936273	build.ninja	2b073f24b1ba088b
+3	595	7644467350311912	CMakeFiles/payload-decryptor.dir/src/rc4.cpp.obj	5adddf0ac35a5e76
+5	939	7644485635453575	CMakeFiles/payload-decryptor.dir/src/shellcode.cpp.obj	bc6ac16790ef888d

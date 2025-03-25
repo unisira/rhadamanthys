@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/dev/re/malware/Rhadamanthys/Dropped/440824/payload_decryptor/build",
+  "command": "E:\\dev\\llvm-17.0.5\\bin\\clang++.exe -O0 -g -Xclang -gcodeview -D_DEBUG -D_DLL -D_MT -Xclang --dependent-lib=msvcrtd -o CMakeFiles\\payload-decryptor.dir\\src\\main.cpp.obj -c E:\\dev\\re\\malware\\Rhadamanthys\\Dropped\\440824\\payload_decryptor\\src\\main.cpp",
+  "file": "E:\\dev\\re\\malware\\Rhadamanthys\\Dropped\\440824\\payload_decryptor\\src\\main.cpp",
+  "output": "CMakeFiles\\payload-decryptor.dir\\src\\main.cpp.obj"
+}
+]
