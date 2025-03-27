@@ -1,5 +1,9 @@
-from __future__ import print_function
 import flare_emu
+
+def asd(i: Int) -> List[Int]:
+    return [i for i in range(0, 5)]
+
+type AddressSet = Set[Address]
 
 def decrypt(argv):
     myEH = flare_emu.EmuHelper()
